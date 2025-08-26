@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61EDA93A-29D5-442E-9491-8A65ECD3751A}|4_PotionAlchemy.vcxproj|D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\StockManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61EDA93A-29D5-442E-9491-8A65ECD3751A}|4_PotionAlchemy.vcxproj|solutionrelative:StockManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EDA93A-29D5-442E-9491-8A65ECD3751A}|4_PotionAlchemy.vcxproj|D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61EDA93A-29D5-442E-9491-8A65ECD3751A}|4_PotionAlchemy.vcxproj|solutionrelative:Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EDA93A-29D5-442E-9491-8A65ECD3751A}|4_PotionAlchemy.vcxproj|D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\PotionRecipe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61EDA93A-29D5-442E-9491-8A65ECD3751A}|4_PotionAlchemy.vcxproj|solutionrelative:PotionRecipe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EDA93A-29D5-442E-9491-8A65ECD3751A}|4_PotionAlchemy.vcxproj|D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\PotionRecipe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61EDA93A-29D5-442E-9491-8A65ECD3751A}|4_PotionAlchemy.vcxproj|solutionrelative:PotionRecipe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EDA93A-29D5-442E-9491-8A65ECD3751A}|4_PotionAlchemy.vcxproj|D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61EDA93A-29D5-442E-9491-8A65ECD3751A}|4_PotionAlchemy.vcxproj|solutionrelative:Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EDA93A-29D5-442E-9491-8A65ECD3751A}|4_PotionAlchemy.vcxproj|D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\Potion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61EDA93A-29D5-442E-9491-8A65ECD3751A}|4_PotionAlchemy.vcxproj|solutionrelative:Potion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EDA93A-29D5-442E-9491-8A65ECD3751A}|4_PotionAlchemy.vcxproj|D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\AlchemyWorkshop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61EDA93A-29D5-442E-9491-8A65ECD3751A}|4_PotionAlchemy.vcxproj|solutionrelative:AlchemyWorkshop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EDA93A-29D5-442E-9491-8A65ECD3751A}|4_PotionAlchemy.vcxproj|D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\AlchemyWorkshop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61EDA93A-29D5-442E-9491-8A65ECD3751A}|4_PotionAlchemy.vcxproj|solutionrelative:AlchemyWorkshop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EDA93A-29D5-442E-9491-8A65ECD3751A}|4_PotionAlchemy.vcxproj|D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\StockManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61EDA93A-29D5-442E-9491-8A65ECD3751A}|4_PotionAlchemy.vcxproj|solutionrelative:StockManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 197,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StockManager.h",
+              "DocumentMoniker": "D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\StockManager.h",
+              "RelativeDocumentMoniker": "StockManager.h",
+              "ToolTip": "D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\StockManager.h",
+              "RelativeToolTip": "StockManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-26T11:55:39.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PotionRecipe.h",
+              "DocumentMoniker": "D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\PotionRecipe.h",
+              "RelativeDocumentMoniker": "PotionRecipe.h",
+              "ToolTip": "D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\PotionRecipe.h",
+              "RelativeToolTip": "PotionRecipe.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-26T11:55:33.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Potion.h",
+              "DocumentMoniker": "D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\Potion.h",
+              "RelativeDocumentMoniker": "Potion.h",
+              "ToolTip": "D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\Potion.h",
+              "RelativeToolTip": "Potion.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-26T11:55:18.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlchemyWorkshop.h",
+              "DocumentMoniker": "D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\AlchemyWorkshop.h",
+              "RelativeDocumentMoniker": "AlchemyWorkshop.h",
+              "ToolTip": "D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\AlchemyWorkshop.h",
+              "RelativeToolTip": "AlchemyWorkshop.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-26T11:55:13.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlchemyWorkshop.cpp",
+              "DocumentMoniker": "D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\AlchemyWorkshop.cpp",
+              "RelativeDocumentMoniker": "AlchemyWorkshop.cpp",
+              "ToolTip": "D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\AlchemyWorkshop.cpp",
+              "RelativeToolTip": "AlchemyWorkshop.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-26T11:53:57.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockManager.cpp",
+              "DocumentMoniker": "D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\StockManager.cpp",
+              "RelativeDocumentMoniker": "StockManager.cpp",
+              "ToolTip": "D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\StockManager.cpp*",
+              "RelativeToolTip": "StockManager.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-26T11:53:40.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Potion.cpp",
+              "DocumentMoniker": "D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\Potion.cpp",
+              "RelativeDocumentMoniker": "Potion.cpp",
+              "ToolTip": "D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\Potion.cpp",
+              "RelativeToolTip": "Potion.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-26T11:53:27.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PotionRecipe.cpp",
+              "DocumentMoniker": "D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\PotionRecipe.cpp",
+              "RelativeDocumentMoniker": "PotionRecipe.cpp",
+              "ToolTip": "D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\PotionRecipe.cpp",
+              "RelativeToolTip": "PotionRecipe.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-26T11:53:16.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Solution.cpp",
+              "DocumentMoniker": "D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\Solution.cpp",
+              "RelativeDocumentMoniker": "Solution.cpp",
+              "ToolTip": "D:\\Sparta\\C\u002B\u002BAssignment_4\\4_PotionAlchemy\\4_PotionAlchemy\\Solution.cpp",
+              "RelativeToolTip": "Solution.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAArwBMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-26T05:24:33.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
