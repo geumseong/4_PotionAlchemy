@@ -6,6 +6,7 @@
 #include "Potion.h"
 #include "PotionRecipe.h"
 
+//과제4_도전: 포션의 재고 관리자 클래스
 void StockManager::addPotion(std::string name)    //포션을 재고 리스트에 추가
 {
     if (potionAlreadyExist(name) == nullptr)
@@ -77,7 +78,7 @@ void StockManager::displayAllPotions()    //모든 만들어졌던 포션들의 재고 출력
     for (int i = 0; i < potions.size(); i++)
     {
         std::cout << i + 1 << ". ";
-        displayPotion(potions[i].potionName);
+        displayPotion(potions[i]);
     }
 }
 
