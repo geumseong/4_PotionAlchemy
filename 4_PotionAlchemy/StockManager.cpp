@@ -2,9 +2,7 @@
 #include <vector>
 #include <string>
 #include "StockManager.h"
-#include "AlchemyWorkshop.h"
 #include "Potion.h"
-#include "PotionRecipe.h"
 
 //과제4_도전: 포션의 재고 관리자 클래스
 void StockManager::addPotion(std::string name)    //포션을 재고 리스트에 추가
